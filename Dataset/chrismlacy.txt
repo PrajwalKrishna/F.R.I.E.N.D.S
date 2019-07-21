@@ -1,0 +1,246 @@
+@cologneworkx Sorry about that one. Fixed in the next beta.
+@AraWagco (and one you won't believe)
+On the next @androidcentral podcast @journeydan, @AraWagco reveal our phone usage stats for 'yesterday'. What's your guestimate for my usage?
+Is this a question? Because it doesn't seem like I'm able to say "no". https://t.co/epu0LPXQWO
+Given it's Nintendo (the at blame party) not the retailer who incurs the eventual cost here, I fully endorse this action. https://t.co/vKNkHYVl1e
+Challenge: try and find a positive tweet on https://t.co/XqjYtuoCMr about Dropbox suddenly defaulting to opening its unwanted app instead of Finder, registering itself as a startup app, etc. Hard to think of a more user hostile and unwanted move by a major app in recent memory.
+@Dezmadrack The new APK download didn't work. Try this direct link: https://t.co/S31weswii1
+@zaherg That's a helpful video, but this is not a solution for the mainstream. Also requires rather specific tools. Nintendo should be fixing the problem properly.
+@Dezmadrack Can you please provide specifics here? In what way does it not appear? Screenshot?
+@DantheClamMan Glad to hear it!
+In my case, I sent my drifting Joy Con back to Nintendo and was told they found water damage. It never had water spilt on it. I had no choice but to pay ~AU$50 for a replacement. Process took about 2 weeks. A few months later, the other Joy Con is drifting. 😡
+I ❤ the Switch, but this Joy Con drift issue is unacceptable. Feels to me like it's Nintendo's version of the MacBook keyboard woes, but more widespread. @thetruebowser &amp; co. should instigate a global, no questions asked replacement policy.
+https://t.co/qaWF3auApf
+@VladislavKluska I've never liked how that mechanic works so am glad to ditch it. But I hear you all the same. I'm certainly of the mind the system should allow 3rd party launchers should be able to offer the same behavior if they implement it.
+@cologneworkx Your browser is likely set to not allow installing APKs.
+@cologneworkx Please be specific as to what happens when you attempt to download.
+@cologneworkx What specifically do you mean? You're unable to download the updated Plugin APK or something else?
+@donnfelker Glad you're finding it useful. Thanks for the shout-out!
+RT @donnfelker: Been using Action Dash's focus mode.
+
+In short, I love it.
+
+I block all social apps and its a great reminder to get back to…
+Not to mention that between Action Launcher, ActionDash and my side gig running PR for Android Betas that break 3rd party launcher compatibility, I'm plenty busy for the foreseeable future.
+I'm not against creating a weather app, but I also don't have a burning desire to do so. Also, a weather app is only as good as its weather provider. This would require a subscription to be viable long-term, and I'm dubious how many people would accept that. https://t.co/9kAXsHXGUI
+RT @cap: When you open a Google doc and the only other person in the doc is... you from another tab. https://t.co/TYnrXinrky
+@donnfelker It's not available in ActionDash 3.x, but here's some progress UI that shows it's very much on the horizon https://t.co/H5338S4EYj
+@NoTechBen "Everything is connected." 
+Been watching Dark on Netflix have we?
+@AraWagco I don't believe SystemUI is covered by Project Mainline currently. In this case, we will rely on Google ensuring OEMs integrate fixes manually, which is obviously far from ideal. 
+
+That said, Mainline does allow for new APIs to be added.
+What timing! https://t.co/vNr0H44eZb
+@MishaalRahman @RonAmadeo Examples are transition animations as well as the integration of Pixel Launcher's all apps drawer in the Recents screen. There's no reason APIs couldn't exist to handle this of course. I'm actually hopeful we might see them going forward.
+@chrisonline1205 https://t.co/FichpJ62zY
+Action Launcher has a disproportionately large share of users on newer Android versions than most apps. That said, my biggest fear is OEMs forking the first Q release and not integrating Google's promised fixes, leading to this being a lasting issue. https://t.co/AZMzWI8i6E
+RT @AndroidPolice: Third-party launchers won't be able to use Android Q's new gesture navigation at launch https://t.co/vdajjo7IpR https://…
+I find it rather alarming that Q's navigation gestures still seem so in flux this late in Q's beta process. https://t.co/b7Iaz6mKsF
+Action Launcher development is entirely unchanged by this news, and will continue in earnest. The next Action Launcher update, featuring Dark theme support (including for Google Discover/Now integration), Quicktheme enhancements and more, is 90% done and should release very soon.
+In brief: it's very frustrating, but the Android team does seem committed to fixing 3rd party launcher compatibility for Q this year via updates. Assuming they follow through, IMO this will be a short-term inconvenience rather than a bad sign for launcher viability going forward.
+A note on the announcement that Android Q's gesture navigation will be incompatible with 3rd party launchers (including Action Launcher) at launch, and what this means for Action Launcher:
+https://t.co/hS3SXy3Lt5
+I would not be upset if Android Studio's debugger defaulted to displaying variables tagged with @ColorInt in hex.
+@RDRv3 Wind Waker is more charming, but for me it felt 2-3 dungeons light, and thus less than it might have been. Conversely, Ocarina is a complete masterpiece. Also, Ocarina has Zelda's best ever dungeon in the Water Temple. So that's a no.
+@AraWagco @Nova_Launcher @SmartLauncher5 The situation is on the Android team's radar.
+@Saemin4655 There's no master option for that I'm afraid. Settings -&gt; Desktop -&gt; Grid and Settings -&gt; Desktop -&gt; Icon scale should go a long way though.
+@Saemin4655 It sounds like "Settings -&gt; Import &amp; backup -&gt; Restore default layout" is what you're after. If not, what are you looking to reset?
+@ArtemR @gamasutra Surely "I've recently stumbled upon your website..." was enough of a red flag?!
+The Google Play Console's "reply to user review" system is so great. I just went through a bunch for ActionDash and within an hour a bunch of users updated their review (and its score). It's like buying reviews, but the honest way. https://t.co/hBRDZkSL8b
+RT @AndroidPolice: ActionDash 3.0 beats Google's Digital Wellbeing to adding a 'focus mode,' plus other improvements https://t.co/DOGxo5js3…
+RT @OneDevloperArmy: The best way of saving your code https://t.co/8Gxpn4hWiE
+@sergeyszest Thanks for sharing!
+RT @engadget: ActionDash 3.0's new 'Focus' mode keeps Android users on task https://t.co/bo6pj2ajh4 https://t.co/0IkiQZo84Z
+@cologneworkx Excluded apps are hidden from total device usage calculations. You can still see how much time a single app is used for.
+@cologneworkx Usage Assistant is contextual. It will show the current app's usage total today, yes.
+RT @verge: This app gives you Android Q’s new Digital Wellbeing features right now https://t.co/Fa0HXa1n1q https://t.co/bWfci5ndtY
+@suku_patel_22 SystemUI has issues when a launcher other than Pixel Launcher is the default.
+@brazenserpent7 @im_titto Have you tapped the "What's this?" button on the notification?
+@suku_patel_22 I can tell you this is not a problem with Action Launcher, but rather Android itself.
+@ianrbuck Not currently. Personally I just use do not disturb in such cases, but I certainly appreciate it would be helpful if focus mode did this.
+@Kruger2147 Not currently, but believe me, I hear you on this.
+I always listen to feedback. The tricky part here was the sheer work involved in acting on said feedback. But it's done now. 🎉
+Related: it would really help me if y'all would leave a nice ActionDash review: https://t.co/uckeyDTQ0X
+#5️⃣⭐ https://t.co/P3r5wClKH2
+Agree. 🤗 https://t.co/DZxOYA5nmJ
+Shoutout to the OEM that cost me a perfectly stable ActionDash 3.0 release 😡 https://t.co/7zh9V1FPzJ
+@ImNeumann Try this: https://t.co/Nj5GzRG70V
+In short, your previous purchase should absolutely still work. 
+Please contact support@actionlauncher.com for further help.
+@doublejskid You'll be please to see this was merged into Action Launcher's code yesterday! https://t.co/sMbkuJb0jI
+@AraWagco To be fair, waiting in lines for theme-parks practically demands sky-high Twitter usage...
+"[ActionDash's] new persistent notification feature — a beta feature called Usage Assistant, [... is] something that I will begin using to shame myself about my Twitter and Reddit usage immediately." - @AraWagco 
+😂😂😂
+https://t.co/M81uHmvfVt
+ActionDash gives you Android Q’s new Digital Wellbeing features right now (via @verge) https://t.co/siGnP8vTPW via @Verge
+📲 🚨 ActionDash 3.0 is OUT NOW, headlined by three app usage limit features: focus mode (✋), single app limits (⏲) &amp; a new contextual Usage Assistant (𝍌). There's also a fully black Dark theme &amp; more. 
+Details: https://t.co/4rgfUAPIn3
+Install (free!): https://t.co/uckeyDTQ0X https://t.co/ifo6W8aeFk
+Focus mode headlines ActionDash's 3.0 update, but by no means is it the only new feature.
+Install ActionDash (free!) so you get 3.0 as soon as it's live: https://t.co/uckeyDTQ0X
+Coming tomorrow in ActionDash 3.0: Focus mode! ✋🤫 https://t.co/nU0vQEzZE2
+@milan616 @Nova_Launcher I believe Google will make a statement addressing the plans for launcher compatibility with an upcoming Q Beta.
+@nick_mowen Indeed. It's do eye opening just how much time and effort I previously wasted with Java.
+ActionDash 3.0 is indeed a massive update. Should release much sooner than later. https://t.co/zbVg01hrkQ
+Kotlin making Python feel overly verbose is some achievement.
+0. I'm also increasingly tapping out of email. Notifications are disabled - I manually check my personal email only every other day. The world still spins... https://t.co/xuHMZ4lDDl
+@KaKito_24 @ArtemR @AndroidPolice @DaX05 There's a bunch of 3rd party launcher issues in Q. This is one of them. We'll see how it shakes out. 🤞🤞🤞 
+(Apologies for the rather delayed response!)
+@JM77 Often I'll watch a show like this quietly as the wife is going to sleep. I miss half of it without subtitles.
+@jessewilson Ya-hah.
+@HandNF I'm sure this is true, but as the end user, I care not. I just want the words my eyes are seeing to match the words my ears are hearing. It's not too much to ask.
+@Det_Conan_Kudo I rarely if ever notice a mismatch between audio and subtitles with English shows. But with these foreign shows it's *constant*. This is my gripe. It's as if subtitles are professionally translated but the audio scripts came via Google Translate.
+Why do so many foreign language Netflix shows have constant mismatches between their audio dub and subtitles? Absolutely infuriating. https://t.co/HFi7K3Cdt1
+@_DragoNo Sorry, I missed that. I'll reply over DM.
+@AndroidPolice * Not The Onion.
+I extract an unreasonable amount of delight in tooling around with emulators that mix old Nexus hardware and the latest Android system images... https://t.co/GXXvhnUcci
+RT @stfuarmani: me: *logs into gmail on another device*
+
+google security: https://t.co/5eyp4zTKNz
+@ballmatthew @SohrabOsati What's your feeling on Spidey remaining in the MCU post Far From Home (when the 5 picture MCU deal expires)? Sony can't think audiences will accept Venom style spinoffs w/o Spider-Man on an ongoing basis, and Disney surely won't allow SUoMC into MCU. Something's gotta give right?
+RT @GavinSBaker: 1) Thoughts post E3.  Streaming is real, xCloud is the likely winner.  Publishers are using Stadia, other potential new di…
+It took a full hour, but I was able to wrangle my Australian payment details with US only food delivery services to arrange donut bribe deliveries to East and West Coast Android offices in the hopes of seeing some movement here... https://t.co/TmDa28g658
+@ratushny I'm not into that myself.
+@charlesarthur I *loved* cricket as a kid. Literally memorized the Aussie team's stats from tour summary books and the like. As I got older I realized the idea of a game that takes five days to play and still may not actually have a winner is just bonkers 😃
+@terrillo Which is not for me.
+@mtmjr90 I agree on the insufferable lag watching NFL / NBA. My hack here is to record the games &amp; start watching from the beginning ~1 hour after tip-off, then fast-forward through the ads / referee get togethers / free throws / etc. The Superbowl is literally the only game I watch live.
+@MUFColin I bleed MUFC. I tend to float a bit in the other leagues. I got both my NBA and NFL champions this year.
+@arathkone Yeah the Premier League starts again in 56 days or something crazy like that.
+Not looking forward to the insufferable hell that is the dead months with no Premier League, NFL or NBA 😞
+Well I sure picked a good year to get back into the NBA in ernest. Quite the ride from start to finish.
+@mattditton No way - Banjo-KaLacy was f'n huge! 10 Jiggies, raising/sinking water levels, underwater and above ground gameplay, a boss - even Gruntilda's coaxing popups! https://t.co/6LXWZ1Sw6d
+@mattditton I sure wish I still had the code. It would be fun to boot it up again.
+Fun fact: I got my first job in the games industry 20 (!) years ago on the back of a Banjo-Kazooie demo I made. My art skills lacked then (as they do now), and I couldn't animate Kazooie so I made it so he was kidnapped. Then I called the demo Banjo-KaLacy 😀
+Me, watching the Banjo-Kazooie Smash Brothers announcement. https://t.co/mcLlxlXN9z
+@LuToChris My man, I'm simply stating what Google's newly announced guidelines suggest in this case. I'm not a fan of the battery saver fallback myself to be honest, but offering a time of day option is actually a more a complex task than you'd think.
+@LuToChris While I don't personally love the idea, the fact that it also goes against Google's stated conventions means it's unlikely to be something I'll look into. For pre-Q devices, auto-dark theme is engaged when in battery saver mode BTW.
+@LuToChris At I/O Google specifically stated they recommend apps not do this, but instead toggle automatically based on the system setting.
+I've reported an Android Q issue when using Q's new gesture navigation with a 3rd party launcher: recents list always flashes on screen when swiping up on the home button: https://t.co/NUkzvu8FV0
+
+Q development is entering final stages - please consider starring this issue. https://t.co/Zfk1QeSAzO
+I've reported an Android Q issue when using Q's new gesture navigation with a 3rd party launcher: recents list flashes on screen when using the swipe up gesture to return home: https://t.co/tLdKfKaQrt
+
+Q development is entering final stages - please consider starring this issue. https://t.co/yZ7iVr3Naf
+I've reported an Android Q issue when using Q's new gesture navigation with a 3rd party launcher: unable to swipe Home button from the Recents view to return to the launcher: https://t.co/amDTXfr8Xo
+
+Q development is entering final stages - please consider starring this issue. https://t.co/WHNvdnhNmp
+RT @romainguy: Who keeps all the torches lit in ancient ruins, temples and underground passages in video games? And how do they get there w…
+RT @jessewilson: Value Objects, Service Objects, and Glue
+https://t.co/NLl2VRTZIQ
+Q Beta 4 moving the lock icon from the bottom to the top of the screen sure feels like a move being made with a Face ID style unlock in mind... https://t.co/V13LjZ2Qsx
+@MishaalRahman Well, this thread in about launching an Activity from a Service, not SYSTEM_ALERT_WINDOW rendering. Even if SYSTEM_ALERT_WINDOW is depreciated in Android R, Android could add a LAUNCH_ACTIVITY_FROM_BACKGROUND permission to continue to allow Services to launch an Activity.
+@ballmatthew Would Disney actually have the power to hold back such a big Fox release and move it to Disney+? Wouldn't HBO, which has the rights to Fox's theatrical releases, have some grounds to prevent that?
+Android Q Beta 4 makes good on its promise of allowing background Activity launches if a user grants the SYSTEM_ALERT_WINDOW (aka "Display over other apps") permission. This is a great compromise. Thanks to the Android team for listening &amp; responding to feedback here! 🙌🎉👊
+RT @reneritchie: I bet Tim Cook watched season 1 of “For all Mankind” on a Pro Display in XDR. 
+
+Also, GoT Season 8, so he and the team are…
+RT @rustyshelf: iOS Devs: "ha ha only 10% of Android devices are on the latest OS"
+
+Also iOS Devs: "I can't touch SwiftUI for another 2 yea…
+@ricknout @GoogleDevExpert Well done Nick! Thoroughly deserved!
+"Cheetah Mobile not only makes terrible software, but has even found its products ejected from the Play Store on occasion for breaking rules. If you somehow need more reasons not to use apps from the company…"
+
+@corbindavenport on form as ever 😂
+
+https://t.co/tE7sv8T0eH
+"It’s long been held that top salespeople [...] are deft at problem solving. [What] matters more today is problem finding. One of the most effective ways of moving others is to uncover challenges they may not know they have."
+https://t.co/xl6NAnhbHl
+@chrisrj8084 As always it comes down to implementation details, but at a high level I agree.
+It's a subtle change, but I like the blur Q adds to the current audio's art on the lock screen. https://t.co/4rmtqQkFyk
+@koush We're in agreement there. It really does seem as simple as combination of D&amp;D running out of source material and those two people wanting to get out of dodge ASAP. https://t.co/yw4bM7LFvt
+@koush The lazy Hollywood "all the baddies can neutered by taking out the redundancy-less server" trope aside, I actually didn't have any problem with Arya landing that blow. My Thrones gripes are more with the implementation of their decisions, which all felt needlessly rushed.
+@koush You're right labelling it a 'retcon'. Heretofore I've subconsciously equated 'retcon' with 'a poorly handled retcon', which is my error. Recton or not, IW + Endgame felt like a cohesive setup + payoff that enhanced what came before. It was the opposite for Thrones S7 + S8.
+@koush Obviously Endgame undid the snap, but given it ends with the massive time jump intact and 4 of the 6 OG Avengers largely off the board, I don't think it's fair to label it a retcon.
+Infinity War and Endgame both upped the stakes and still nailed the landing. 
+Game of Thrones' final seasons basically said "here, take The Incredible Hulk and Iron Man 2 - we're outta here."
+24 hrs on I'm even less enthused about Thrones's final season.
+Arya's "no one knows what's west of Westeros" plot is absurd - she's stood directly next to Bran, who can *literally see the history of all humanity*.
+Also, all of this @ballmatthew thread:.
+https://t.co/WJGYTvOYpW
+@ZacSweers Try and find a way to enjoy yourself…
+@ZacSweers @pratheesh_ps This. It's clear there were literally two people (and their families) who wanted but 13 episodes and out.
+I get that once one gets past an audience size of say 5 people, it's literally impossible to please everyone. But these last two Thrones seasons really felt needlessly abbreviated, and it really hampered the story.
+As far as satisfying series finales go, I put Game of Thrones much closer to Lost's mediocrity than Breaking Bad's flawlessness.
+@mikewolfson Yup.
+The Good Place season 1 idea: a buffet where the tables are so close together people's chairs back into each other.
+To be fair, I am running the Q Beta, so it could well be related to that. But these are the very complaints people have had about Pixel 3 since its launch so…
+Having my Pixel 3 constantly boot my recent audio app (and its notification) from memory is annoying, but having the camera app silently fail to save photos is unacceptable. I felt the initial "OMG the Pixels 3 only have 4GB RAM" reaction was overblown, but seemingly I was wrong.
+Google Assistant really is great. https://t.co/Zo6Dlle7Xr
+@marcardar Have you seen any stats as to how popular Go actually is? It's not something I'm concerning myself with currently.
+I will continue to hold my applause until it releases, but this seems a hella positive sign!
+https://t.co/b3jofysLqf https://t.co/038kOEmYOx
+@steakscience Yes. Not with the new gestures though.
+Q's Digital Wellbeing app shows some funky usage stats - from 9-&gt;10AM is has me using Action Launcher for 51 mins &amp; ActionDash for 53 mins (I don't use multi-window).
+From the logs it seems ActionDash's usage is accurate. Not sure if it's 3rd party launcher related or not 😕 https://t.co/lmUQPQtsKC
+This song, on endless repeat. https://t.co/N3edkgbuOl
+@alex_tepa1 If you're comparing the the OnePlus 1, sure. If you're comparing to a S10 or iPhone XS Max, it comes out pretty great.
+@jerrellmardis I'm not certain, but I think so.
+The OnePlus 7 Pro's periscope camera. My 26 second impressions of the device were if you can get past its *massive* size, it's a top notch (🥁) premium device. https://t.co/p95fZMUok5
+@Dj_Axi Afraid not.
+@CallipH For me @RonAmadeo covered this well here: https://t.co/Opfzkls3zo
+@Dj_Axi By debug build of Action Launcher, yeah. "G" is short for Gradle BTW.
+@BorisPingPong Glad to hear it's of use! 😀
+But you could still open apps via:  multitasking/recents; notifications; the share panel; the Play Store app; system settings in Q; etc.
+
+In short, I think adding bio auth to Action Launcher does nothing but add a false sense of security, so have no plans to add it. https://t.co/FbD32n8Ywm
+I spent the arvo finalizing a new grid mode for ActionDash 3.0. Being able to see stats for more of your top apps at a glance is really helpful. Especially so when flicking between the day. https://t.co/YDosAOHMu4
+@billsplanet Same.
+@CliffCawley @koush @NVIDIASHIELD I'd previously heard so-so reports on Shield which put me off it. But I had a go of one at I/O and it seemed fine, so I'll give it a go.
+@bilikdavid You are not alone.
+@ArtemR Right now I'd add tired to that list! Great running into you also 😀
+Kevin from Nova and I are going to coordinate filing bugs for Q's 3rd party launcher issues. I spoke with the lead of the System UI team about it, and the response was the team are "committed" to 3rd party launcher compatibility for the final release. https://t.co/WRsXyxZsCc
+@daniel__hurley I had the exact same reaction!
+@Pierc3Hawthorne Not really. Certainly I'd be happy to see someone other than the Warriors win this year.
+🙌🙌🙌 https://t.co/q7yGXG7TBy
+The OnePlus 7 Pro… https://t.co/ItS0tPIXPO
+Android Q's Dynamic System Updates feature is awesome. TL;DR: One can have multiple system images on the same device and switch between them. This will be brilliant come Android R Beta 1 time. https://t.co/uau3GzKxXT
+@dcseifert I look forward to it!
+So long I/O. Great seeing everyone as ever. Until next time! #🛫 https://t.co/DwoaQmcC7n
+@dratsuchcustard Pill is in Q Beta 3. It could well end up shipping with Q final on Pixels. But Google stated there we committed to two methods going forward, and the pill wasn't one of them.
+First swipe opens the drawer. Second swipe acts as a Back press to close the drawer. But I certainly expect apps to gravitate away from typical navigation drawers (which makes me happy - I hate 'em). https://t.co/D5d0xUXZ90
+Google today confirmed as of Q, Android will offer two user selectable system navigation options: the 3 button legacy method and gestures using the edges for Back. Also, bye-bye to each manufacturer having custom navigation gestures.
+Really informative session on dark theme and Q's new navigation gestures by @crafty, @chrisbanes and @rohanscloud. I'm definitely going to have to rejig ActionDash's UI a bit to embrace drawing beneath the nav bar. 🤔 https://t.co/KqCgVfeubu
+TIL: Google has a Bike Rescue Squad. https://t.co/tVNwGFTio1
+@dabrianator I don't think it's realistic to expect Stadia to operate well on anything less than a strong network connection. And I think that's entirely fine.
+There's 5G demos at I/O. Given my fears of the bulk 5G radios would add to  devices, I approached in an extremely sceptical frame of mind, but was pleasantly surprised. Some of the devices were unwieldy, but the Galaxy S10 5G seemed great (for large phone lovers at least).
+@rharter @vishnurajeevan @ActionLauncher Yeah I spoke with the System UI folks yesterday about it. I expect it'll be much better for the final release.
+As with any game platform, Stadia's success will ultimately come down to the games, and to a lesser extent price/business model. From a tech level, it seems Stadia performs well, and I love its promise of playing on any screen. I'm a bull on Stadia.
+I had a bit of lag controlling the character, but I felt that was due to the game itself rather than Stadia. E.g, when doing a 180 during a run, the game reacts slowly, playing a turn around animation. I did not feel lag moving the character itself around in general.
+Stadia seems great. I played Assassin's Creed, which is surely a great choice of game for the platform. I spent most of my time gauging the responsiveness. Overall I think it performed very well. Definitely well enough for people to play without being hamstrung by Stadia itself.
+@koush I don't want to have to buy a new TV to use Netflix, Play Movies and YouTube on a big screen. I want a Pixel Player.
+@tsmith Google's made it very clear they see it that way. I just feel there's a market there.
+@neilcybart The amount of time Apple have dedicated to camera performance and its prominence in marketing materials would surely suggest strongly that this is a bad take.
+Recent Android OS adoption is a whole lot better on Android TV than other device types. https://t.co/RRvnF7wtVP
+TIL: There's a Reference+ program for Android TV developers to test on.
+I remain baffled and disappointed there remains no modern Android TV consumer hardware can buy. https://t.co/8718zy0Gwq
+Using AR to help navigate I/O is another super compelling use case. I'm really excited to see the Maps integration demoed last year ship. https://t.co/lAKJn2qEY2
+Nice name 😀 https://t.co/coQ1bzX0VN
+RT @lockheimer: @thetimmysmalls @chrismlacy Yeah OK I admit that was weird. (FWIW I can't remember our rationale...a sign of great decision…
+@lockheimer @thetimmysmalls 😀
+@panzer_michael Yeah I'd bundle that in my privacy mention.
+@richminer I recall you saying on a podcast once you regret not inserting a performance payment in the Android deal upon hitting a billion users!
+RT @chiuki: #io19 keynote #sketchnotes https://t.co/raVthEGval
+To be clear, I do think many of Google's announcements, especially accessibility, were genuinely outstanding. They will improve lives for millions. And there's arguably no way for such announcements to be made *without* opening the door to "this is PR motivated" hot takes. https://t.co/lorStRYAvV
+Perhaps I'm being a bit cynical, but I can't shake the feeling Google intentionally projected an element of "yes, we're a near trillion $ company, but look at the good we do with accessibility, privacy &amp; health. We're *really* not Facebook, please cancel the break us up talk."
+@koreapresidency Disagree.
+Pixel 3a's $399 starting price is $50 cheaper than the cheapest iPhone model (the 7).
+Shots fired. https://t.co/iZ2PZGf2G7
+Silencing music by raising your hand is *awesome*.
+Odd that after announcing a new brand name this product is continually being referred to as "Hub Max" rather than "Nest Hub Max".
+My initial reaction: not loving renaming Home to Nest. Although I do think it's more unique, which is likely helpful for building a brand name going forward.
+@lumby2005 No way is this tech mainstream ready yet.
+5G and foldables. These are technologies I would run not walk away from in 2019.
+Just throwing it out there, but as Android goes to V10 I'm still of the mind it was stupid that KitKat was 4.4 rather than 5.0.
+Interesting stat: there's more than 1 billion devices running Android 7 or later.
+A killer Assistant voice demo - that shares a photo via MMS... 🤔
+Bringing AR to search seems a pretty compelling use case. https://t.co/Mo4RSjV2pg
+@PancakeLunchBox @MrLeoFreitas Haha there's more than one hole there 😀
+@sachz Yaha.
+@mattroxburgh To be fair, it does seem good quality kit. But even still, jarringly expensive, especially given this is a throwaway on-campus store, not a business line.
+😁😁😁 https://t.co/CvWfdA1xxy
+Google's on-site merchandise store is a pretty neat fit out. But holy shit is it expensive - $60+ for a hoodie, $100+ for a backpack. https://t.co/9nMHibkb8P
+How did HBO allow that to only be a single episode? It was a long episode with a massive amount of story AND had a natural ending point ~half way through. I ain't complaining as a viewer, but I'm amazed HBO didn't go for the extra episode.
+@barboi As someone with more than a few time heist questions, I'm not ruling anything out…
+So the time heist accusation was unfounded. AirPods case was mistaken for dental floss and returned to the bathroom cupboard 😂
+Could the person who stole my AirPods right off my desk in a time heist hurry up and put them back already?
+@inik Honestly, I find this is a very common reaction by folks who consider things for a moment. I'm really trying to be transparent and above board with efforts to earn the revenue needed to keep growing Action Launcher. Thanks for understanding!

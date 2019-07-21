@@ -1,0 +1,277 @@
+RT @TwitterDev: Academic research is some of the most impactful work that happens with the Twitter API. As we plan for the future of our de…
+We’ve spoken with all developers who’ve contacted us to discuss these new rate limits and elevations, and as of today, Monday 6/24, we’ve completed the rollout of this change. Learn more: https://t.co/AF9AWRytO9
+Request limit change: today, we're implementing a change to two commonly used Twitter standard API endpoints - user and mentions timeline. Check out our forum post below to learn more 👇 https://t.co/L1rT7Msm4c
+Reminder: only 1⃣ week until the rate limit change to user and mentions timeline endpoints will go into effect. If you're still not sure if your app will be impacted, you can read more here: https://t.co/JUK13aZPsF …
+Starting July 15, 2019, all connections to the Twitter API (and all other Twitter domains) will require TLS 1.2. Read more about this change on our developer forum: https://t.co/3q2MwmzAzi
+RT @TwitterDev: 🎺 da-dada-DAH! We’re introducing the first Twitter Developer Labs endpoints: 
+
+✨GET/users and GET/tweets ✨
+
+Labs is now ope…
+👋Take a look at a new tutorial from our DevRel team, and learn more about using the Account Activity API here: https://t.co/GEQhXI0vqY https://t.co/CGjgDqGKZc
+Don't forget: 1⃣ month to go until the rate limit change to user and mentions timeline endpoint goes into effect. If you're still not sure if your app will be impacted, you can read more here: https://t.co/JUK13bhqkd https://t.co/lnO00V6aEX
+Through the Twitter Developer Labs program, we'll soon preview new versions of GET /tweets and GET /users, followed by Tweet streaming, search &amp; metrics. More to come! 👉 https://t.co/rDE48yNiSw https://t.co/oFsvkpnDhS
+In case you missed it, ✌🏻 months to go until this change goes into effect. If you're still not sure if your app will be impacted, you can read more here: https://t.co/JUK13bhqkd https://t.co/lnO00V6aEX
+Today we’re previewing some changes to our API, including the deprecation of legacy values in user objects. We’re making these changes to provide accurate, useful data to the developers who build on Twitter APIs. https://t.co/hXrmNPLhmp
+Today we are previewing changes to the rate limits of two commonly used Twitter standard API endpoints – user and mentions timeline. Read more about the new limit that we’ll implement on June 19, 2019 here:
+
+https://t.co/RfrrSo4H27
+RT @AdsAPI: Ads API version 5️⃣ has arrived, with updates that focus on enabling scale and efficiency. Get more details👇
+Today we are announcing the availability of a new operator for enterprise and premium Search products. Learn more on the forum: https://t.co/KxP7aOeUtT
+All app management is unifying on https://t.co/EfJLLFaLkk! Beginning today: 
+
+https://t.co/PCwEGWityX
+&gt; will be redirected to &gt;
+https://t.co/c10Mtp2Fqz
+
+There, you can manage all existing apps from https://t.co/1NDcn9C4M9 alongside all other dev resources. https://t.co/EjLFTr0KdW
+RT @TwitterDev: Just getting started with Twitter APIs? Find out what you need in order to build an app. Watch this video! https://t.co/Hg8…
+Reminder: New default app-level POST rate limits take effect today. We’ve previously reached out to the small number of developers impacted by these changes with details on how to apply for free, elevated access. 
+
+See today's post for details. https://t.co/fpO7IKwOG2
+To make room for more expression, we will now count all emojis as equal—including those with gender‍‍‍ ‍‍and skin tone modifiers 👍🏻👍🏽👍🏿. This is now reflected in Twitter-Text, our Open Source library. 
+
+Using Twitter-Text? See the forum post for detail: https://t.co/Nx1XZmRCXA
+To strengthen the security of our systems, today we changed how apps can access images via the Direct Message API. If your app renders images from this API, please see today’s update for details.
+
+https://t.co/cK2OkN8QEj
+What does the premium Search Tweets: 30-day API have in common with puppy treats and squeaky toys? Happy dogs and influential parents! 
+
+Learn how Ghergich &amp; Co. identified the most influential dog lovers for their client's brand in a new case study. https://t.co/ImJzsLw9ga
+RT @robjohnson: I shared the following message with our Twitter team this morning https://t.co/PTStPrUTsx
+Today, our User Streams, Site Streams, and legacy Direct Message endpoints will begin a brief period of degraded service before being retired entirely.
+
+Developers using these services can learn more and find migration guides on the forum: https://t.co/hedzTXO6as
+Reminder‼️ This week, on August 16th, User Streams, Site Streams, and the legacy Direct Message endpoints will be deprecated.
+
+Today's forum post shares what to expect as well as instructions for those who have not yet migrated off of these endpoints. https://t.co/hedzTXO6as
+@BradElliottSA @TwitterSupport Hi Bradley — We are here to help! Just fill out the form at the bottom of this FAQ page. Let us know if you have any issues. https://t.co/y8ZQGVm8CH
+RT @yoyoel: Today we introduced some big changes to how developers get access to our APIs. We know these changes may impact the research co…
+And, if you’re not already following our other channels for developer news, learn more about how to stay informed: https://t.co/LfGgm5QHsO
+Read today’s blog post for more details. https://t.co/Es30MdsKEm
+We know these changes add a few steps and more time to getting started. We appreciate your part in helping improve developer accountability and curb API misuse.
+
+We’re committed to supporting all developers who want to build high-quality, policy-compliant experiences on Twitter.
+On September 10th, we’re applying new default app-level rate limits on POST endpoints for Tweets, Retweets, DMs, follows, and likes. We will contact developers who may be impacted to help them continue high-volume access for policy-compliant usage. https://t.co/hp5NtivbDK
+New apps must now be created in the new app management portal on https://t.co/EfJLLETasM (no longer at https://t.co/1NDcn9TGaJ) and require an approved developer account.
+https://t.co/JHZ9IMY3la
+As a developer platform, our first responsibility is our users: to provide a place that supports the health of conversation on Twitter. 
+
+To continue to prevent misuse of our platform, we are introducing a few new requirements for developers today.
+https://t.co/Es30MdsKEm
+Today's forum post is for all developers still using User Streams, Site Streams, or the legacy Direct Message endpoints.
+
+👀See the post for steps to migrate and a notification about new event types you will see in advance of the sunset of these products. https://t.co/USTtE7fgO7
+Reminder! We shared earlier this year that the following products will go away on August 16th. 
+ - Legacy Direct Message endpoints
+ - User Streams
+ - Site Streams
+If you are using these products, visit the docs for instructions on how to avoid disruption. https://t.co/zobIlo3gcq
+RT @TheTerminal: Is @Twitter data a crucial part of your algorithmic trading strategy? We've launched a curated Twitter Event Driven Feed t…
+Don't miss a thing! 📣
+
+Be among the first to know when updates are made to the Twitter developer platform by subscribing to a few (or all) of our channels 💬✉️🖥️. Learn more:  https://t.co/LfGgm5QHsO
+We’re making app creation even easier for premium API developers! 
+
+Starting today, premium API devs with an approved developer account on https://t.co/EfJLLETasM can manage their apps and product subscriptions in one place. Learn more.
+https://t.co/OhVmDztX3V
+As announced last month, today marks the beginning of callback URL whitelisting enforcement. Apps using Sign in with Twitter who have not whitelisted their URLs will experience disruption. To whitelist your URLs, follow the guidance in our May forum post. https://t.co/uWBvhX30E6
+Experiencing momentary disruptions? 
+This means you have not enabled whitelisting for your callback URLs. Be sure to follow our guidance on how to make these changes by June 12th or your callback URLs will fail. See our May forum post for guidance. https://t.co/uWBvhX30E6
+Heads up to devs using Sign in with Twitter! 
+In preparation for next week, today we are temporarily enforcing whitelisted callback URLs for a random sample of requests to oauth/request_token.
+https://t.co/QULr0E2XKH
+If you use Sign in with Twitter, remember to whitelist your callback URLs before the June 12th deadline. See the forum post from early May for details. 👀 https://t.co/rIAKW89XTq
+Reminder‼️ We are rolling out a few changes to the developer platform in advance of new European Union regulations going into effect on May 25th. 
+
+Please review our April forum post to ensure you take appropriate action. https://t.co/2GB0cRJg83
+RT @TwitterDev: Today we’re excited to announce the general availability of Account Activity API. Now developers can get started for free,…
+Do you parse Quote Tweet URLs as part of your Twitter integration? 
+
+We’re updating the way that URLs are rendered in the Quote Tweet payload and are sharing a few details in today’s forum post. Definitely worth a read. 👀https://t.co/nom8xM0jEV
+And, friendly reminder that a handful of other changes will be going into effect in May. Read our April announcement for details. ✅✅✅https://t.co/2GB0cRrEJt
+Do you use Sign in with Twitter? We announced important callback URL whitelist requirements today. Take a look. ⚠️ https://t.co/366TvN44N1
+Our developer platform helps make Twitter better. Today we're sharing our core principles of transparency, control and approved uses that guide us as we continue to improve Twitter's data platform to help developers build useful solutions. https://t.co/1uyHzw1qIC
+Upcoming changes to our developer platform include policy updates, timezone values, and more. 
+
+Take a look at the forum post to get a preview of these changes before they go live. 👀 
+https://t.co/2GB0cRrEJt
+Heads up! New European Union privacy rules are going into effect in just over a month‼️
+
+Today, we’re sharing some of the changes we’re making to our Twitter developer platform to comply with these new laws. 
+https://t.co/2GB0cRrEJt
+RT @Twitter: Protecting and defending your privacy is at the heart of our work. Today, we’re launching our new Privacy Policy and Terms of…
+RT @TwitterDev: Last year we announced our plan to retire Site Streams &amp; User Streams, and replace them with the Account Activity API (curr…
+Announcing a new API status page -&gt; https://t.co/VHjrLJJPHO
+RT @TwitterDev: We’re excited to announce a change to Direct Message rate limits that gives those using the APIs the ability to respond to…
+Today, we’re clarifying our rules on automation using multiple accounts, as well as removing any possible ambiguity created by our own implementations. Please read, and note the March 23, 2018 deadline.
+
+https://t.co/DDznLRjGvQ
+@dts1186 @jack Deleted Tweets are never included in the Tweet archive, as noted in our developer policy: https://t.co/n0pAEgOxWz
+Test it out within the free sandbox, then scale your usage as you grow with flexible month-to-month packages. 👀 Check out the blog post to get started! https://t.co/xpS7W41690
+Building on our recently launched premium Search Tweets API, this new endpoint is one more step in our commitment to provide a predictable way to scale solutions on Twitter https://t.co/6jVlxkOTrT
+This endpoint goes well beyond the 7-day history of our standard API to enable extraordinary access previously only on our enterprise APIs. 
+
+7-days 
+░░░░░░░░░░░░░░ &lt;0.002%
+30-days
+▓░░░░░░░░░░░░░ &lt;0.01%
+Full-archive
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
+New year, new access for our developer community! 🎉
+
+Today, we’re launching our premium Search Tweets: Full-archive endpoint — providing access all the way back to @jack’s first Tweet in 2006. https://t.co/emgyLhnUob
+Improving HTTP/2 support https://t.co/16OOGthZPt
+RT @TwitterDev: Today we’re launching a number of new features to make customer engagements on Twitter better. 🙌
+
+https://t.co/gAi00MtfBE
+RT @TwitterDev: 🎁 'Tis the season for opening packages. Today we're making all of Twitter Kit for iOS, Android and Unity open source, and i…
+We can’t wait to see what you build with this new access! 👀 Take a look at our blog post to learn how to get started: https://t.co/CMh0wv4RIV
+We’re also introducing a self-serve, developer portal to monitor and manage your usage, subscriptions, and payments. 🔎 https://t.co/u4qh4HMYws
+Our premium APIs will provide greater access to Twitter data, starting today with our Search Tweets: 30-day endpoint.🗓  And there’s even more to come. https://t.co/u6yRXB5iK8
+With premium APIs, we are bridging the access gap between our standard and enterprise APIs to help developers tap into what’s happening, as they grow. 📈 https://t.co/hjGLE7AzF9
+Today we’re launching Twitter premium APIs to kick off the next era of innovation for Twitter developers. 🙌
+
+These APIs provide a new transparent, predictable way to scale solutions on Twitter. https://t.co/4qtkeiUpDY https://t.co/3FhH759Ik5
+RT @TwitterDev: Updates coming to the twitter-text library in twitter-text 2.0 https://t.co/whzq3UjLUv
+RT @TwitterDev: We've updated our Developer Agreement, Developer Policy, and Automation Rules today - more here https://t.co/AAhKZMRoJP
+Reminder: legacy Direct Message short code commands on the statuses/update endpoint are retired as of Nov 1 https://t.co/qmFsGvs6J4
+RT @TwitterDev: It’s Friday and @andypiper is sharing guidance on a few of your most frequent questions. Learn more about twurl, rate limit…
+ICYMI - the legacy Direct Message commands are being retired on statuses/update this month, as announced earlier https://t.co/GyAPgDHwRf
+We’ll continue to experiment and make changes to improve the core Twitter experience and API platform.
+If you’ve followed the guidance in our docs (not to hard-code anything at 140 characters), you will be fine.
+To avoid incomplete Tweet display, it’s important that your apps have character count flexibility around the Tweet display range.
+Developers, what does this mean for you? Be sure you’ve built your apps with the flexibility to handle Tweets that contain &gt;140 characters. https://t.co/tW5qWkgpKL
+RT @TwitterDev: Today we’re introducing a new home and format for all Twitter developer resources. https://t.co/AHkEQ6WuDF
+There was a temporary issue with the embedded Tweets widgets.js library - once CDNs and local caches are refreshed, this should resolve.
+RT @AdsAPI: Ads API v2 is here! https://t.co/GyFuXp0m83
+RT @TwitterDev: Announcing new updates to our APIs to help developers build better experiences in Direct Messages. https://t.co/FpzA15Aqx6
+RT @TwitterMktg: Now it’s easier for bots in Direct Messages to ask people to Tweet, follow an account or open a web page. https://t.co/ud1…
+Retirement of the xAuth authentication mechanism https://t.co/QSntGDeLjM
+RT @TwitterDev: We’ve published some updates to our Developer Agreement and Policy https://t.co/2FZFUnDmRo
+Upcoming changes to HTTP headers on API calls https://t.co/WuaES1ivrZ
+Retiring legacy DM commands on the standard Tweet endpoints (effective Nov 2017) https://t.co/GyAPgDHwRf
+RT @TwitterDev: 1/ Today we’re sharing our vision for the future of the Twitter API platform!
+https://t.co/XweGngmxlP
+RT @TwitterMktg: Starting today, businesses can request and share locations when engaging with people in Direct Messages. https://t.co/rpYn…
+RT @TwitterDev: The first of many deploys to improve the Twitter Developer experience.
+Explore the new https://t.co/13ziK7gUfh. https://t.c…
+Our outbound IP addresses are changing on November 7, 2016. Please read if you whitelist our servers for crawling.
+https://t.co/P3rXwoSXQV
+RT @TwitterDev: The attachment_url option for the statuses/update endpoint is now available - details -&gt;  https://t.co/9Bl58OdB3V
+RT @TwitterDev: ICYMI - we posted some additional API details on forthcoming Tweet object changes in our dev forums 👀https://t.co/uhwyngnGP8
+RT @TwitterDev: As of today, the REST API will return alt text with a Tweet by default. Use of the 'include_ext_alt_text' parameter is no l…
+API support for 140 second video upload https://t.co/zS8cEXrIdX
+The recent oEmbed updates for timelines make adding them to your site even easier, details here 👇 https://t.co/rxHbAfTcb8
+@twitterapi This change is now in effect. iOS Twitter Kit users should now be using v1.15.3 or newer. For questions: https://t.co/JPlzzfg9Yr
+RT @AdsAPI: Twitter Ads SDK for Ruby v1.0.0, with #AdsAPIv1 support is now available! https://t.co/XUQjKa5s2B
+Announcing oEmbed support for embedded timelines https://t.co/7WPKgoBENs
+Information on the upcoming changes to Tweets is now on the developer site https://t.co/V8PTcAL9Cs
+The disruption to https://t.co/tLBVlxZilk logins is resolved. Sorry for the short issue!
+We are investigating a temporary issue affecting login for app management on https://t.co/tLBVlxZilk
+The Streaming API has been fully operational. We’ve fixed an issue that incorrectly reported its status this week. https://t.co/vSEnUALL8e
+MP4 URLs in the Tweet payload will be retired on Aug 1. If used, switch over to HLS URLs at your convenience. More: https://t.co/v1nOOdkucr
+See this developer forum post for important updates if you currently implement a player card on your website. https://t.co/HG9laN1LWu
+RT @TwitterDev: Twitter Ads API Challenge: Build great advertising tools for a shot at $250,000 $API.tw https://t.co/Peexsv5TLE
+https://t.c…
+We've enhanced the documentation around our Media APIs, for upload and alt text support https://t.co/obNBSSS5H2
+Improved image sizes coming soon to the API. Details here on the dev forums, https://t.co/ivGr2Y2Pbx and on the blog https://t.co/dduQ4dVwa7
+Full documentation for the API around the new alt text feature is coming soon. https://t.co/zTij0XByHF
+RT @TwitterDev: Now live: a modern new embedded timeline with more flexibility, rich media, new cards &amp; more https://t.co/bPBUAKgyxI https:…
+RT @AdsAPI: Announcing #AdsAPIv1, available March 15th. v0 will no longer be supported after June 15th https://t.co/vO9JLKDKeX
+Deprecation of XML response type for single Tweet oEmbed - details of changes required to affected code here -&gt; https://t.co/PJrqvzMEIJ
+RT @AdsAPI: Later this quarter we’ll begin to version changes we make to the #AdsAPI for a better, more predictable DX https://t.co/VnyBdsV…
+Update: our migration to 64-bit snowflake IDs is complete - saved searches, users and list IDs are now all 64-bit. https://t.co/brVAwDIQT5
+As announced in 2013, we're completing retirement of our v1 APIs. See our post for timeline &amp; migration information: https://t.co/aNbMsNNkoY
+RT @TwitterDev: Announcing our #HelloWorld Tour -- Join us! https://t.co/m8ZjGu7Kpg https://t.co/ondOESIH1O
+@TheNiceBot aww thanks, you're lovely too! :-)
+Additional 64-bit entity ID migration coming in Feb 2016 https://t.co/eQIGvw1rsJ
+RT @TwitterDev: Hearts are here! The REST and Streaming API paths and properties remain unchanged.
+https://t.co/R6AjSSKysq
+The streaming endpoints are returning to normal.
+We are working to resolve some 4xx and 5xx API issues.
+The Streaming API endpoints are returning to normal after the earlier connection issues.
+We are investigating an issue with the Streaming API endpoints at present.
+RT @AdsAPI: Twitter is experiencing issues in  chunked media uploads through the API. https://t.co/4wOEgWr8Zb
+How the USGS uses Twitter data to track earthquakes https://t.co/qSiD5MgIST
+Announcement: moving http://t.co/EdkFYYfddt to HTTPS only for new links, from October 1 https://t.co/dkgaQ23Klw
+RT @AdsAPI: Release: Twitter Ads API SDK for Ruby v0.2.1 has been released, you can read more about it here: https://t.co/5B3kw7AKQu
+RT @Flight: Registration for Twitter Flight is now open! Join us on October 21 in SF. http://t.co/guK3LqTLN5 http://t.co/59eMxTA3Dx
+The temporary widget rendering issue should be resolved https://t.co/233DhE6lOm
+We are aware of a temporary issue with some of our web widgets and embeds repeating on some sites and are investigating.
+RT @TwitterDev: Our developer conference is back! Join us at Twitter @Flight on October 21 in San Francisco: https://t.co/wEiNu8lAt9 http:/…
+Update to plans to roll out longer DMs - including how to test in your apps https://t.co/MCq1s51ZaF
+Removing the 140 character limit from Direct Messages https://t.co/h0I2M3P2vm
+Quoted status objects and the API https://t.co/PpjnlQEk5F
+RT @TwitterDev: Excited for #io15? We're celebrating by open sourcing Twitter Kit and Digits for #Android! https://t.co/WgN3nwk0F9 http://t…
+RT @TwitterDev: We are excited to announce that the REST API now supports native video upload. https://t.co/cWUrgjh8wz http://t.co/yaenTQE9…
+API updates for Direct Message options https://t.co/RXjGMkCbbi
+Potential adjustment to public Streaming API volumes https://t.co/kQhoIWGoyZ - always intended to be 1% of current Tweet levels.
+Thank you for your patience, media entities in the streaming API should be returning to normal.
+We're aware of reports that media entities are limited in the Streaming API at the moment and are investigating. https://t.co/rZMFMANtLD
+Native video support in REST and Streaming API https://t.co/VrFm1qGZnF
+Adding a new social event to the Streaming API - retweet has been retweeted https://t.co/qmIF7W9Iyl
+RT @TwitterDev: Today we are excited to announce a series of Fabric events worldwide: Flock! Register here: http://t.co/94u6lpk1D8 http://t…
+Announcing the addition of animated GIFs to JSON payloads for REST and Streaming APIs https://t.co/O9eWzMPay7
+RT @TwitterDev: Jumpstart your Twitter integration by checking out @twitterdev on Github https://t.co/quFH80JSdu http://t.co/qiZraIhIOx
+Deprecation of the account/update_profile_colors endpoint https://t.co/Fk6AlAHKXw
+Announcing some upcoming changes to the Lists API https://t.co/H3HHbnk8NX
+RT @twittersecurity: We are switching from report-only to enforce-mode CSP headers to block mixed content on http://t.co/OOBCoscBzv: https:…
+We've published updated Developer Policy and Agreement documents today - announcement on our forums https://t.co/TS3nKGCrea
+Announcing @fabric: The easiest way to make the best apps https://t.co/TmEGvIskQ1
+RT @twittersecurity: We have disabled SSLv3 protocol support in response to the vulnerability published today. You may need to update your …
+The OAuth / xAuth issue affecting REST endpoints has been resolved. Please visit our OAuth forums for support https://t.co/XiKCrlfCNX
+We are aware of the OAuth / xAuth issue affecting REST endpoints. We are addressing the issue and will update when resolved.
+RT @TwitterDev: We're building great content for @Flight. Apply to attend &amp; learn what's behind the red lines. http://t.co/u0oD3is0CI http:…
+RT @crashlytics: Join Crashlytics and Twitter @Flight to learn how we can help you build the best mobile apps. http://t.co/rbvYUO6QkZ http:…
+RT @TwitterDev: Join us at Twitter @Flight and learn how we can help you build the best mobile apps. October 22nd, in SF. Visit http://t.co…
+RT @TwitterDev: Learn how to consume millions of tweets with @twitterapi at #TDC2014 in São Paulo #bigdata tomorrow at 2:10pm http://t.co/p…
+RT @TwitterDev: Join us in 1 hour for a G+ Hangout to learn how to get more from a Tweet using Twitter Cards
+https://t.co/pHnC9KFqm0
+https:…
+RT @TwitterDev: Now available, Answers by Crashlytics. Gain insight into your app’s usage. Learn more and get started. https://t.co/t35pKS1…
+Goal! Detecting the most important World Cup moments https://t.co/D6SEk3EwYR
+RT @crashlytics: Why do it once when you can do it twice? Crashlytics + Twitter Invite You to our I/O Party http://t.co/CaK42rjbfj http://t…
+RT @TweetDeck: A security issue that affected TweetDeck this morning has been fixed. Please log out of TweetDeck and log back in to fully a…
+Now available, Beta by Crashlytics.  Invite and manage testers for your apps. https://t.co/qcmMuq8XrZ
+RT @crashlytics: It’s Official. Introducing Beta by Crashlytics http://t.co/07StxbrdXl #androiddev #iosdev http://t.co/cexybiOUor
+RT @TwitterDev: Come hangout with @TwitterDev on May 29th at 1PM PDT and ask your API and syndication questions! http://t.co/KMuvnNOCgw
+On May 28th PDT (UTC-7) we will launch support for composing tweets with multiple images via the REST API. Details: https://t.co/XB1rnLfFmo
+RT @TwitterDev: Developer Spotlight: Botanicalls via @jbulava  https://t.co/EtJEF3XFOt
+Forthcoming tweak to streaming API error codes from June https://t.co/HbQsmbkLmQ
+Twitter Developer Events: May 2014 https://t.co/Y8RUKLcWt1
+RT @crashlytics: We're doing it again! Join Crashlytics &amp; Twitter to kick off WWDC at this year's hottest party http://t.co/MhKD9VTC9H http…
+Now you can mute users on Twitter https://t.co/zGBgt5LOJd - here are the new API endpoints https://t.co/wC2AXYBuRI
+RT @TwitterDev: Issue fixed: tokens not updating on http://t.co/tBJddtCUwN now resolved.  https://t.co/gRCkuEhmDu updated with status (clos…
+Current known issue: tokens not updating on https://t.co/a1dP2K07jK. We are actively working on a fix. https://t.co/xo6ys3L7Xu for updates.
+Bootstrapping Sign in with Twitter https://t.co/4i7QRWpe5L
+Delivering great video and audio on Twitter, made simple https://t.co/7tXX5q3wPQ
+Learn how to monetize your mobile apps using MoPub native ads. https://t.co/VLSGPYq6UP
+RT @TwitterDev: New REST API endpoint for bulk lookup of Tweets by ID -  https://t.co/NsOjHvCgbL.
+RT @TwitterAds: ANNOUNCING the global launch of native ads for all @mopub publishers: 
+https://t.co/bx1zsdNHfH
+We have agreed to acquire @gnip, welcome to the flock! https://t.co/fXrE36fjPZ
+RT @twittersecurity: http://t.co/OOBCosuKND &amp; http://t.co/oPmJvpbS6v servers were not affected by OpenSSL vulnerability CVE-2014-0160 http:…
+X-Connection-Hash to replace X-Transaction header for debugging streaming API issues, starting April 14. Read more: https://t.co/aiWEKiuXmn
+User &amp; Site Streams bug fix when user @-mentioned by protected account rolling out April 8-9. Read more: https://t.co/tt9aAT4IEC
+Twitter Developer Events: April 2014 https://t.co/FEozay7PTN
+Expect rollout of backend changes to streaming endpoints to take several more days. Read more: https://t.co/2JSqxMfYFI
+Reminder: Backend changes to streaming endpoints begin rolling out tomorrow, April 1. Read more: https://t.co/2JSqxMfYFI
+RT @TwitterDev: Streaming API will be "replaying" some Tweets starting at 1PM (Pacific) today. https://t.co/YkpeBC8ixZ
+User &amp; Site Streams getting some updates and fixes, rolled out in two phases, April 8-9 and April 29-30. Read more: https://t.co/HVmA0ynHRD
+April 1-2: some streaming endpoints getting backend upgrades that will potentially affect bandwidth. Read more: https://t.co/2JSqxMfYFI
+RT @TwitterOSS: hosebird client (hbc) v2.0 released by @kevino and team, check out the new release notes https://t.co/l0jkFgvLMZ
+Broadcasting the voices of WordPress users, one Tweet at a time https://t.co/XCkAskpXVB
+RT @crashlytics: Announcing Crashlytics Labs Project: Beta Distribution http://t.co/JifugCbtU2 #androiddev #iosdev http://t.co/Y0e2Ahm9lI
+RT @crashlytics: Beyond a Facelift: Unveiling the New Crashlytics Real-Time Interface http://t.co/AbqG1SUrwm #androiddev #iosdev http://t.c…
+RT @rchoi: Thx for the @github octo-swag! Pulled from the same @simonoxleee DNA! @Twitter &lt;3s @github @jeffsand @lizclink @rchoi http://t.c…
+RT @crashlytics: Faster, Better, Stronger. Introducing Crashlytics Optimized Stack Traces http://t.co/ARphYIpTZW #androiddev #iosdev http:/…
+Twitter Data Grants: A pilot program to give researchers access to public and historical data. Learn more https://t.co/KeI2YtGAdi
+How eBay uses Cards and Twitter Card analytics: https://t.co/b7cxO0RrMp
+Introducing analytics for Twitter Cards: https://t.co/2EUxRISD2a
+Tomorrow (Jan 14, 2014) all requests to http://t.co/JJ1WIaJkjK will be restricted to SSL only. Read more: https://t.co/5bffaNC1i5
+Important: On Jan 14, 2014 all requests to http://t.co/JJ1WIaJkjK will require SSL &amp; disallow plaintext connections https://t.co/5bffaNC1i5
+Update: We are removing HTTP 1.0 support for the remaining Streaming API endpoints on Mon., Jan. 13. More details: https://t.co/JfieFem8Kf
+Note: A "blackout test" will be performed tmw btw 11am-1pm PST, and HTTP plaintext connections will be unavailable. https://t.co/5bffaNC1i5
+Reminder: We are deploying a fix to Tweet Entities for Retweets today. Read more about the change: https://t.co/GMIk4lnXjs
+If a user has granted your app direct message read access, OAuth can be used to display any uploaded media: https://t.co/BIjdJ8J637
