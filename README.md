@@ -7,6 +7,7 @@ This **README** file contains :
  3. How to run
  4. File structure
  5. Requirements
+ 6. Video link - https://youtu.be/-1zx1T2olzc
 
 ----------
 
@@ -64,6 +65,9 @@ Requirements:
 
 **Note:** The development was done on a UNIX environment
 
+## Video Link
+-----------------
+Link to video - (https://youtu.be/-1zx1T2olzc)
 _______________
 
 #### Prajwal Krishna Maitin
