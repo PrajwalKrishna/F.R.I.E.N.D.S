@@ -91,7 +91,7 @@ def run_logistic_regression(data):
         ans.append(name_array[i])
     return ans
 
-def test(user):
+def utilityFunction(user):
     get_tweets(user)
     personality = get_traits(user)
     data = cleanData(personality,user)

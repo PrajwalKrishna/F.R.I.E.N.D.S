@@ -1,6 +1,6 @@
 from flask import Flask, render_template, url_for, flash, redirect
 from forms import UserForm
-from func import *
+from auxilary_function import *
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = '5791628bb0b13ce0c676dfde280ba245'
@@ -18,7 +18,7 @@ def login():
     form = UserForm()
     if form.validate_on_submit():
         flash('The results are shown below', 'success')
-        app.arr = test(form.username.data)
+        app.arr = utilityFunction(form.username.data)
         return redirect(url_for('home'))
     return render_template('login.html', title='Login', form=form)
 
